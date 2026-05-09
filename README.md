@@ -162,6 +162,4 @@ If you found this project interesting, feel free to connect with me on LinkedIn 
 
 ## License
 
-## License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
