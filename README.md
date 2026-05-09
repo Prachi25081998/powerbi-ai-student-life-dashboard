@@ -90,6 +90,10 @@ Distinct AI Tools Used = DISTINCTCOUNT(Students[AIToolUsed])
 
 ![How AI is Changing Student Life - Executive Overview Dashboard](screenshots/executive-overview.png)
 
+### AI Usage Patterns
+
+![AI Usage Patterns](screenshots/ai-usage-patterns.png)
+
 ---
 
 ## Repository Structure
