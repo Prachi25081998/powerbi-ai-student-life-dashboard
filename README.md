@@ -157,3 +157,11 @@ powerbi-ai-student-life-dashboard/
 **Prachi Jain**
 
 If you found this project interesting, feel free to connect with me on LinkedIn and explore more of my data analytics portfolio projects.
+
+---
+
+## License
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
