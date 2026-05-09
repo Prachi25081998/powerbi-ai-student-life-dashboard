@@ -109,6 +109,7 @@ powerbi-ai-student-life-dashboard/
 │   └── AI_Student_Life_Dashboard.pbix
 ├── screenshots/
 │   └── executive-overview.png
+│   └── ai-usage-patterns.png
 ├── docs/
 │   └── .gitkeep
 ├── README.md
